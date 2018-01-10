@@ -5,6 +5,8 @@
 
 Tools for Ant Design of React.
 
+加入环境变量，window下修改npm为npm.cmd
+
 ## 3.0.0
 
 Remove moment setting
