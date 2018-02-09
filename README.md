@@ -5,16 +5,4 @@
 
 Tools for Ant Design of React.
 
-gulpfile, getRunCmdEnv, transformLess修改
-
-## 3.0.0
-
-Remove moment setting
-
-## 2.1.0
-
-Add gulp-strip-code
-
-## 2.0
-
-removed `.web.js/.web.less` relative code, suitable for antd-mobile@2.0.
+兼容了windows，加入用于内部系统的一些打包处理
